@@ -1,0 +1,7 @@
+﻿track_id,class_name,direction,frame,time_seconds
+5,car,left_to_right,23,0.92
+6,car,left_to_right,60,2.4
+14,car,left_to_right,127,5.08
+8,car,left_to_right,144,5.76
+52,car,left_to_right,252,10.08
+69,truck,left_to_right,295,11.8
